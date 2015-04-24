@@ -5,6 +5,10 @@ public class Main {
 		
 		
 		System.out.println("Helloooooow world.!!!");
+
 		System.out.println("Hellow Denbosch...");
+
+		System.out.println("Hello Universe!");
+
 	}
 }
